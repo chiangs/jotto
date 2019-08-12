@@ -1,3 +1,17 @@
+This is a course project that exercises the concepts of using Jest and Enzyme for testing React projects:
+
+Features and concepts tested are:
+
+1. Testing components with props.
+   - Condition renders.
+   - State with props.
+2. Redux.
+   - Action creators.
+   - Reducers.
+   - Props in connected components.
+3. Redux Thunk. 
+4. Async Action creators and Axios.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
